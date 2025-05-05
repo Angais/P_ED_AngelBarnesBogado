@@ -20,4 +20,8 @@ public class CalculadoraAngelBarnesBogado {
     public void calcular(){
         System.out.println("Calculando...");
     }
+    
+    public void restar(){
+        System.out.println("Restando...");
+    }
 }
