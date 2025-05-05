@@ -26,6 +26,6 @@ public class CalculadoraAngelBarnesBogado {
     }
     
     public void sumar(){
-        System.out.println("Sumar...");
+        System.out.println("Sumar....");
     }
 }
