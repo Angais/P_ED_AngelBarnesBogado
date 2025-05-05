@@ -24,4 +24,8 @@ public class CalculadoraAngelBarnesBogado {
     public void restar(){
         System.out.println("Restando...");
     }
+    
+    public void sumar(){
+        System.out.println("Sumar...");
+    }
 }
